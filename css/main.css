@@ -1133,8 +1133,8 @@ main .contact .content .info address {
 
 /* footer */
 footer {
-  padding-top: calc(var(--section-padding) / .5);
-  padding-bottom: calc(var(--section-padding) / .5);
+  padding-top: calc(var(--section-padding) / 1.5);
+  padding-bottom: calc(var(--section-padding) / 1.5);
   background-image: url(../img/footer.jpg);
   background-size: cover;
   color: white;
