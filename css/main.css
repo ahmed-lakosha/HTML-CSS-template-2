@@ -553,7 +553,7 @@ main .video .text {
 @media (max-width:767px) {
 
   main .video .text {
-    padding: 20px;
+    padding: 10px;
   }
 }
 
@@ -1002,6 +1002,7 @@ main .subscribe .container form input[type="email"] {
   caret-color: var(--main-color);
   width: calc(100% - 130px);
   border-right: none;
+  color: white;
 }
 
 main .subscribe .container form input[type="email"]::placeholder,
