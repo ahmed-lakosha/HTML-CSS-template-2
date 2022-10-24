@@ -550,6 +550,13 @@ main .video .text {
   text-align: center;
 }
 
+@media (max-width:767px) {
+
+  main .video .text {
+    padding: 20px;
+  }
+}
+
 main .video .text h2 {
   margin-bottom: 30px;
   text-transform: uppercase;
